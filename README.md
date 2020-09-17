@@ -1,1 +1,1 @@
-[link to CV](https://gtm003.github.io/rsschool-cv/cv)
+[link to CV](https://gtm003.github.io/rsschool-cv/index.html)
